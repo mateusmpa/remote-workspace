@@ -16,10 +16,11 @@ group :development, :test do
   gem 'byebug'
   gem 'rspec-rails', '~> 3.4'
   gem 'capybara'
+  gem 'factory_girl_rails'
 end
 
 group :development do
   gem 'web-console', '~> 2.0'
-  gem 'spring'
+  # gem 'spring'
 end
 

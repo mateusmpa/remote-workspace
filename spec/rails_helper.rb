@@ -57,4 +57,7 @@ RSpec.configure do |config|
 
   # Needed to FactoryGirl
   config.include FactoryGirl::Syntax::Methods
+
+  # Needed to Formulaic
+  config.include Formulaic::Dsl, type: :feature
 end

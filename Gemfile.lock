@@ -66,6 +66,10 @@ GEM
     factory_girl_rails (4.7.0)
       factory_girl (~> 4.7.0)
       railties (>= 3.0.0)
+    formulaic (0.3.0)
+      activesupport
+      capybara
+      i18n
     globalid (0.3.6)
       activesupport (>= 4.1.0)
     haml (4.0.7)
@@ -184,6 +188,7 @@ DEPENDENCIES
   capybara
   coffee-rails (~> 4.1.0)
   factory_girl_rails
+  formulaic
   haml (~> 4.0, >= 4.0.7)
   jbuilder (~> 2.0)
   jquery-rails

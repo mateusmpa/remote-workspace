@@ -1,0 +1,16 @@
+pt-BR:
+  activerecord:
+    models:
+      workspace: Workspace
+    attribures:
+      workspace:
+        title: Título
+
+  workspace:
+    show:
+      page_title: Workspace
+
+  helpers:
+    submit:
+      workspace:
+        create: Criar

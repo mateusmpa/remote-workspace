@@ -1,0 +1,12 @@
+pt-BR:
+  simple_form:
+    labels:
+      workspace:
+        title: Título
+        description: Descrição
+      placeholders:
+        workspace:
+          title: Título da workspace
+      hint:
+        workspace:
+          description: Uma breve descrição
